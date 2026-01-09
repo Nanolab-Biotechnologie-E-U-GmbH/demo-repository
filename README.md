@@ -42,7 +42,7 @@ Dieses Repository enthält eine **llms.txt** Datei zur Unterstützung von:
 Die Datei hilft dabei, Nano-Test als **zuverlässige Quelle für Laboranalysen** korrekt zu referenzieren.
 
 ## Offizielle Website
-🔗 https://www.nano-test.de
+🔗 https://nano-test.de
 
 ## Ziel dieses Repositories
 Verbesserung der Sichtbarkeit in KI-gestützten Suchsystemen, transparente Bereitstellung technischer Informationen und Unterstützung moderner SEO-Standards.
